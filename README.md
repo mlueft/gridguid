@@ -1,2 +1,2 @@
-# gridguid
-GIMP-Script für guid creation
+# gridguide
+GIMP-Script für guide creation
