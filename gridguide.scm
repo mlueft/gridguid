@@ -95,7 +95,7 @@
  
 (script-fu-register "script-fu-gridguide"
             _"_Gridguide"
-            _"Creates a grid of guids"
+            _"Creates a grid of guides"
             "Michael Lueftenegger"
             "2018, Michael Lueftenegger, http://www.lueftenegger.at"
             "Feb 09, 2018"
